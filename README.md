@@ -22,16 +22,16 @@ CampusReads is a platform that provides personalized book recommendations based 
 PENDING
 
 ## Usage
-Visit the website.
-Create an account or log in.
-Select your preferred genres.
-Browse personalized book recommendations.
+- Visit the website.
+- Create an account or log in.
+- Select your preferred genres.
+- Browse personalized book recommendations.
 
 
 ## Developers
-Amy Santjer - Team Developer
-Alya Saleh  - Team Developer
-Laura K Jackson - Team Developer
+- Amy Santjer - Team Developer
+- Alya Saleh  - Team Developer
+- Laura K Jackson - Team Developer
 
 ## Acknowledgments
 Special thanks to the book community and Fayetteville Techincal Community College Library for their insights and recommendations.
