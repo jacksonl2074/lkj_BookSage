@@ -7,7 +7,7 @@ CampusReads is a platform that provides personalized book recommendations based 
 - **Personalized Recommendations**: Home page; tailored suggestions based on user preferences.
 - **Book Recommender**: User input a book name for targeted recommendations.
 - **User Ratings**: Books are rated by users, ensuring quality suggestions.
-- **Trending Content**: Discover the most liked books within the community.
+- **Trending Content**: Discover the most liked books within the community. (social media and reviews per user profile) 
 - **Account Page**: User's personalized page with username, email, profile photo.
 - **Registeration**: Ability for a user to register to join website; required username, email, password, and confirm password verification.
 
