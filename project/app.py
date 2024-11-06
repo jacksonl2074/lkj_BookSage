@@ -3,7 +3,9 @@ from flask import Flask, render_template, request, redirect, url_for, flash, ses
 from werkzeug.security import generate_password_hash, check_password_hash # type: ignore
 
 app = Flask(__name__)
- #Function to create the database and user table if they don't exist
+app.secret_key = 'supersecretkey'
+
+# Function to create the database and user table if they don't exist
 def init_db():
     conn = sqlite3.connect('database.db')
     c = conn.cursor()
@@ -18,8 +20,10 @@ def init_db():
     ''')
     conn.commit()
     conn.close()
+
 # Initialize the database
 init_db()
+
 # Home route
 @app.route('/')
 def index():
