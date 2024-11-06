@@ -20,7 +20,6 @@ def init_db():
     conn.close()
 # Initialize the database
 init_db()
-
 # Home route
 @app.route('/')
 def index():
