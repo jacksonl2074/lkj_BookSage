@@ -27,7 +27,7 @@ init_db()
 # Home route
 @app.route('/')
 def index():
-    // only this route doesn't work!
+    # only this route doesn't work!
     return render_template('mainPage.html')
 
 # Auth route for login/registration
