@@ -24,7 +24,9 @@ CampusReads is a platform that provides personalized book recommendations based 
 - **Deployment**: Flask
 
 ## Installation
-PENDING
+cd project
+pip install flask 
+python app.py
 
 ## Usage
 - Visit the website.
