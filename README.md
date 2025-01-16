@@ -1,6 +1,6 @@
-# CampusReads
+# BookSage
 
-CampusReads is a platform that provides personalized book recommendations based on users' preferred genres, popular content, and highly rated titles by fellow readers.
+BookSage is a platform that provides personalized book recommendations based on users' preferred genres, popular content, and highly rated titles by fellow readers.
 
 ## Features
 
@@ -36,9 +36,7 @@ python app.py
 
 
 ## Developers
-- Amy Santjer - Team Developer
+- Amy Santjer - Lead Developer
 - Alya Saleh  - Team Developer
-- Laura K Jackson - Team Developer
-
-## Acknowledgments
-Special thanks to the book community and Fayetteville Techincal Community College Library for their insights and recommendations.
+- Laura K Jackson - Team/Backend Developer
+- Joshua Carter -Frontend Developer
